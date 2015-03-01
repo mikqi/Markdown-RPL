@@ -7,8 +7,11 @@ Sharing is caring
 ## Hafizha Husnaisa
 ## Dhian Ardhityaningsih
 
-<<<<<<< HEAD
+
 ##barbie
-=======
+
 # Dhian Ardhityaningsih
->>>>>>> origin/master
+
+# Ichafizha
+# Dhian Ardhityaningsih
+# rosmaya
